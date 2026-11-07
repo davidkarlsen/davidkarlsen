@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/davidkarlsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="davidkarlsen" height="30" width="40" /></a>
+<a href="https://x.com/davidkarlsen" target="_blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="X (Twitter)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/davidkarlsen/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">GitHub stats:</h3>
