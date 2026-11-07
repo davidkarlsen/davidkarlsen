@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidkarlsen&label=Profile%20views&color=0e75b6&style=flat" alt="davidkarlsen" /> </p>
 
-- 🔭 I’m currently working on **terraform, cloud and Kubernetes stuff**
+- 🔭 I’m currently working on **🏗️ Terraform, ☁️ cloud, ☸️ Kubernetes and 📐 architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
